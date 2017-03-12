@@ -22,6 +22,6 @@ Add to composer.json
 
 #### Migrations:
 ```bash
-./yii migrate/up --migrationPath=@vendor/shamanzpua/yii2-stackoverflow-module/migrations
+./yii migrate/up --migrationPath=@vendor/shamanzpua/yii2-stackoverflow-module/module/migrations
 
 ```
