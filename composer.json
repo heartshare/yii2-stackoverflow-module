@@ -1,0 +1,21 @@
+{
+    "name": "shamanzpua/yii2-stackoverflow-module",
+    "description": "yii2 stackoverflow module",
+    "keywords": ["module", "api", "yii2", "stackoverflow"],
+    "license": "BSD-3-Clause",
+    "require": {
+        "shamanzpua/yii2stackexchange": "*",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "shamanzpua\\module\\": "module/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shamanzp",
+            "email": "yura224k@gmail.com"
+        }
+    ]
+}
